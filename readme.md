@@ -7,4 +7,4 @@
 5. `git config user.name "Your Name"`
 6. `git config user.email "Your Email"`
 7. `git commit -m "<commit message>"`
-8. ``
+8. `git log`
