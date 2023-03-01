@@ -9,4 +9,5 @@
 7. `git commit -m "<commit message>"`
 8. `git log `
 9. `git remote add origin https://github.com/snirEvgi/idfProject.git `
-10. `git push -u origin master `
+10. `git push -u origin master {first time} `
+11. `git push  origin head `
