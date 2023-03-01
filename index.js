@@ -1,4 +1,4 @@
 console.log("hello world");
 function newFn() {
-  return 1;
+  return 2 + 1;
 }
